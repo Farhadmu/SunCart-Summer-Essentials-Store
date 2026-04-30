@@ -275,3 +275,13 @@ npm run preview
 - Email: mi0223937@gmail.com
 - Phone: +880 1945-321285
 - Location: Comilla, Bangladesh
+"feat(product-details): create ProductDetails page protected by login with redirect-back flow"
+"feat(auth-ui): build Login and Register pages with form validation and toast notifications"
+"init: scaffold Vite + React 18 project with Tailwind CSS and DaisyUI"
+ "feat(auth): configure Firebase with env variables for API key security"
+ "feat(auth): implement AuthContext with email/password, Google sign-in and forgot password"
+  "feat(routing): set up createBrowserRouter with protected PrivateRoute for ProductDetails"
+   "feat(home): build Home page with Swiper hero slider, popular products and summer tips sections"
+    "feat(profile): add MyProfile and UpdateProfile pages with live name and photo preview"
+    "fix(deploy): add vercel.json and Netlify _redirects for SPA route reload fix"
+    "docs: complete README with setup guide, env vars, Firebase config and folder structure"
