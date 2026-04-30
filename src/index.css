@@ -1,0 +1,54 @@
+@import "animate.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: #FFFAF1;
+  color: #1F2A37;
+}
+
+.font-display {
+  font-family: 'Fraunces', serif;
+}
+
+/* Reveal-on-scroll */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Sun glow */
+.sun-glow {
+  background: radial-gradient(circle at center, #FFB703 0%, #FF8A65 50%, transparent 70%);
+  filter: blur(40px);
+}
+
+/* Shine text effect */
+.shine-text {
+  background: linear-gradient(90deg, #FF6B4A 0%, #FFB703 50%, #FF6B4A 100%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shine 3s linear infinite;
+}
+
+/* Frosted glass card */
+.frost-card {
+  background: rgba(255, 250, 241, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 138, 101, 0.2);
+}
