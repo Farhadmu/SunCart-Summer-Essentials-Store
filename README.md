@@ -281,3 +281,4 @@ npm run preview
  "feat(auth): implement AuthContext with email/password, Google sign-in and forgot password"
  "feat(routing): set up createBrowserRouter with protected PrivateRoute for ProductDetails"
  "feat(home): build Home page with Swiper hero slider, popular products and summer tips sections"
+"feat(products): add 16 summer products with search, category filter and price sort"
