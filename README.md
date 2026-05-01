@@ -279,3 +279,4 @@ npm run preview
 "init: scaffold Vite + React 18 project with Tailwind CSS and DaisyUI"
  "feat(auth): configure Firebase with env variables for API key security"
  "feat(auth): implement AuthContext with email/password, Google sign-in and forgot password"
+ "feat(routing): set up createBrowserRouter with protected PrivateRoute for ProductDetails"
