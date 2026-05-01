@@ -229,12 +229,12 @@ Create a `.env.local` file in the project root with your Firebase web app
 config:
 
 ```env
-VITE_FIREBASE_API_KEY=your_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
-VITE_FIREBASE_MESSAGING_SENDER_ID=000000000000
-VITE_FIREBASE_APP_ID=1:000000000000:web:abcdef
+VITE_FIREBASE_API_KEY=AIzaSyCy5t6Nh0z580WMyfKa81dpyRCZ-UB86Nk
+VITE_FIREBASE_AUTH_DOMAIN=suncart-6bc91.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=suncart-6bc91
+VITE_FIREBASE_STORAGE_BUCKET=suncart-6bc91.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=766746348436
+VITE_FIREBASE_APP_ID=1:766746348436:web:b1d4415fc4a103df825d81
 ```
 
 ## Firebase Console Setup
