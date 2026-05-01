@@ -285,3 +285,4 @@ npm run preview
 "feat(product-details): create ProductDetails page protected by login with redirect-back flow"
  "feat(auth-ui): build Login and Register pages with form validation and toast notifications"
  "feat(profile): add MyProfile and UpdateProfile pages with live name and photo preview"
+  "fix(deploy): add vercel.json and Netlify _redirects for SPA route reload fix"
