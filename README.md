@@ -271,11 +271,12 @@ npm run preview
 
 
 ## Author
-
 **Md Forhadul**
 - 📧 Email: mi0223937@gmail.com
 - 📞 Phone: +880 1945-321285
 - 📍 Location: Comilla, Bangladesh
+
+
 
 "init: scaffold Vite + React 18 project with Tailwind CSS and DaisyUI"
  "feat(auth): configure Firebase with env variables for API key security"
