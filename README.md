@@ -3,8 +3,7 @@
 
 A modern summer e-commerce Single Page Application (SPA) where users can
 explore and purchase seasonal products — sunglasses, breezy outfits,
-sunscreen, beach accessories, swimwear and more. Built with React 18, Vite,
-Firebase Authentication, Tailwind CSS and DaisyUI.
+sunscreen, beach accessories, swimwear and more. Built with Firebase Authentication, Tailwind CSS and DaisyUI.
 
 ## 🌐 Live URL
 
