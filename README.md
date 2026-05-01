@@ -280,3 +280,4 @@ npm run preview
  "feat(auth): configure Firebase with env variables for API key security"
  "feat(auth): implement AuthContext with email/password, Google sign-in and forgot password"
  "feat(routing): set up createBrowserRouter with protected PrivateRoute for ProductDetails"
+ "feat(home): build Home page with Swiper hero slider, popular products and summer tips sections"
