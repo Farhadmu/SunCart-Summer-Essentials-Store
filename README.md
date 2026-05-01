@@ -283,3 +283,4 @@ npm run preview
  "feat(home): build Home page with Swiper hero slider, popular products and summer tips sections"
 "feat(products): add 16 summer products with search, category filter and price sort"
 "feat(product-details): create ProductDetails page protected by login with redirect-back flow"
+ "feat(auth-ui): build Login and Register pages with form validation and toast notifications"
