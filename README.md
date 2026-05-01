@@ -282,3 +282,4 @@ npm run preview
  "feat(routing): set up createBrowserRouter with protected PrivateRoute for ProductDetails"
  "feat(home): build Home page with Swiper hero slider, popular products and summer tips sections"
 "feat(products): add 16 summer products with search, category filter and price sort"
+"feat(product-details): create ProductDetails page protected by login with redirect-back flow"
